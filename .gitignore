@@ -1,0 +1,24 @@
+# Dependências / ferramentas (não fazem parte do site publicado)
+node_modules/
+build/
+_check/
+_diag/
+site-netlify/
+server.mjs
+serve-site.mjs
+package.json
+package-lock.json
+
+# Binários e pacotes
+*.exe
+*.zip
+
+# Imagens ORIGINAIS na raiz (já otimizadas dentro de assets/)
+/*.png
+/*.jpg
+/*.jpeg
+/*.JPEG
+
+# Sistema
+.DS_Store
+Thumbs.db
