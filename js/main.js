@@ -101,11 +101,13 @@
       nav.classList.remove('open');
       toggle.setAttribute('aria-expanded', 'false');
       toggle.setAttribute('aria-label', 'Abrir menu');
+      document.body.style.overflow = '';
     }
     function open() {
       nav.classList.add('open');
       toggle.setAttribute('aria-expanded', 'true');
       toggle.setAttribute('aria-label', 'Fechar menu');
+      document.body.style.overflow = 'hidden';
     }
     toggle.addEventListener('click', function () {
       if (nav.classList.contains('open')) close(); else open();
