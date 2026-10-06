@@ -27,5 +27,5 @@ assets/               → logos, fotos e imagens de antes/depois (otimizadas)
 3. De volta no GitHub Pages, marque **Enforce HTTPS** (após o DNS propagar).
 
 ## Configuração rápida
-- **WhatsApp/telefone:** `js/main.js`, linha 11 (`WHATSAPP_NUMBER`). Atual: (48) 99907-9613.
+- **WhatsApp/telefone:** `js/main.js`, linha 11 (`WHATSAPP_NUMBER`). Atual: (48) 98467-8049.
 - **Instagram / endereço / horário / textos:** direto no `index.html`.

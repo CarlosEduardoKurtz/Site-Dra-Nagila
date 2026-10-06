@@ -8,7 +8,7 @@
      CONFIGURAÇÃO  →  ⚠️  ALTERE O NÚMERO DE WHATSAPP ABAIXO
      Formato: código do país + DDD + número (somente dígitos)
      ------------------------------------------------------------------- */
-  var WHATSAPP_NUMBER = '5548999079613'; // WhatsApp da Dra. Nágila — (48) 99907-9613
+  var WHATSAPP_NUMBER = '5548984678049'; // WhatsApp da Dra. Nágila — (48) 98467-8049
   var WHATSAPP_MSG = 'Olá, Dra. Nágila! Vim pelo site e gostaria de agendar uma avaliação.';
   var WA_LINK = 'https://wa.me/' + WHATSAPP_NUMBER + '?text=' + encodeURIComponent(WHATSAPP_MSG);
 
